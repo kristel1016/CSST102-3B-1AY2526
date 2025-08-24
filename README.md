@@ -1,2 +1,2 @@
 # CSST102-3B-1AY2526
-TAEHYUNG
+Basic Machine Learning (IS 102) introduces the foundations of how computers can learn patterns from data and make predictions without being explicitly programmed. The subject covers key concepts like supervised and unsupervised learning, data preprocessing, and simple algorithms such as linear regression and decision trees. It also gives students hands-on experience in applying machine learning models to real-world problems, helping them understand both the potential and limitations of AI.
